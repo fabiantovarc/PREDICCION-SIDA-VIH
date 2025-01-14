@@ -9,6 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/4f1c3f1d-dede-4bea-8eea-9d70e2b16c00)
 
+**Link del canva**: https://www.canva.com/design/DAGU5aj43Nw/0Crs18iyPqLgEDTiPIR95A/edit?utm_content=DAGU5aj43Nw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Velu, A. (2023). AIDS virus infection prediction [Conjunto de datos]. Kaggle. https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction/data
 
 **Propósitos:**
